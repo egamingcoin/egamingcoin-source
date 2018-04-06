@@ -1,0 +1,9 @@
+Building Egamingcoin
+
+See doc/readme-qt.rst for instructions on building Egamingcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Egamingcoin.
+
+See doc/build-*.txt for instructions on building egamingcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Egamingcoin.
